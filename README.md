@@ -1,5 +1,6 @@
 **Back-End Developer**
 - 3+ Years Java/Kotlin Experience
+- GoLang Experience
 - Extensive Spigot API Experience
 - System Administration/Cybersecurity Experience
 
