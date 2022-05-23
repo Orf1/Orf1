@@ -1,9 +1,21 @@
-**Back-End Developer**
-- 3+ Years Java/Kotlin Experience
-- GoLang Experience
-- Extensive Spigot API Experience
-- System Administration/Cybersecurity Experience
+# **Back-End Developer**
 
-Most of my cool projects are private, contact me if you would like to see them!
+### Languages:
+- ☕ **Java**
+- 📘 **Kotlin**
+- 📗 **Golang**
+- 📙 **Python**
+### Libraries:
+- 🍃 **Spring Suite**
+- 🗃️ **Hibernate**
+- 📦 **Spigot & Forge API**
+- 📡 **Ktor & Netty**
+### Skills:
+- 🐳 **Docker & Kubernetes**
+- ⚖️ **Prometheus**
+- 🖥️ **System Administration**
+- 💾 **MySQL, Redis, MongoDB, etc...**
+- ⛅ **Cloudflare & Networking**
+
 
 Email: contact@orf1.dev
