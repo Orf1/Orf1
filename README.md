@@ -5,11 +5,13 @@
 - 📘 **Kotlin**
 - 📗 **Golang**
 - 📙 **Python**
+- 📕 **Swift**
 ### Libraries:
 - 🍃 **Spring Suite**
 - 🗃️ **Hibernate**
 - 📦 **Spigot & Forge API**
 - 📡 **Ktor & Netty**
+- 📱 **XCode/iOS Development**
 ### Skills:
 - 🐳 **Docker & Kubernetes**
 - ⚖️ **Prometheus**
