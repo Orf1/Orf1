@@ -22,4 +22,4 @@
 
 Email: contact@orf1.dev
 LinkedIn: https://www.linkedin.com/in/orfeasm/
-The Clever Company LLC
+The Clever Company LLC based in California
