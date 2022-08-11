@@ -1,9 +1,9 @@
 # **Back-End Developer**
 
 ### Languages:
+- 📗 **Golang**
 - ☕ **Java**
 - 📘 **Kotlin**
-- 📗 **Golang**
 - 📙 **Python**
 - 📕 **Swift**
 ### Libraries:
