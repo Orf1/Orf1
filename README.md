@@ -20,6 +20,7 @@
 - ⛅ **Cloudflare & Zero Trust**
 - 🚅 **Networking & Cybersecurity (Certified)**
 - 🏠 **Google Admin/GSuite & MS Active Directory**
+- 🐚 **Much more**
 
 Email: contact@orf1.dev
 LinkedIn: https://www.linkedin.com/in/orfeasm/
