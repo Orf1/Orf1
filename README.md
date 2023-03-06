@@ -22,6 +22,6 @@
 - 🏠 **Google Admin/GSuite & MS Active Directory**
 - 🐚 **Much more**
 
-Email: contact@orf1.dev
+Email: orfeas126@gmail.com
 LinkedIn: https://www.linkedin.com/in/orfeasm/
 
